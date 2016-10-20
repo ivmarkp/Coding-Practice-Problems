@@ -23,5 +23,5 @@ Some "must-know-how-to-solve" problems (with their variants). Come up with solut
   e. Given a string, print all possible substrings that are palindrome.
  5. Prime number  
   a. Check whether a given no. is prime in better time complexity than O(n).  
-  b. Print all prime factors of a given number.  
+  b. Print all prime factorization of a given number.
 
