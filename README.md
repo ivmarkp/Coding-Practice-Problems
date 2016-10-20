@@ -16,8 +16,8 @@ Some "must-know-how-to-solve" problems (with their variants). Come up with solut
   c. Count the number of digits in the nth Factorial number.  
   d. Given an integer n, count the no. of trailing zeroes in its Factorial.
  4. Palindrome  
-  a. Check whether a string is a palindrome.  
-  b. Check whether a number is a palindrome.  
+  a. Check whether a string is a palindrome using pointers.  
+  b. Check whether a number is a palindrome with recursion.  
   c. Given a number, print the next smallest palindrome.  
   d. Given a string, print the longest substring (not subsequence) which is palindrome.  
   e. Given a string, print all possible substrings that are palindrome.
