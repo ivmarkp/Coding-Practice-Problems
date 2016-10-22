@@ -12,8 +12,8 @@ Some "must-know-how-to-solve" problems (with their variants). Come up with solut
   b. [Given an array of n numbers, find LCM.](../master/Classical/2B.cc)
  3. Factorial  
   a. [Find the factorial of a number.](../master/Classical/3A.cc)  
-  b. [Count Factorial numbers in a given range.(../master/Classical/3B.cc)  
-  c. [Count the number of digits in the Factorial of a given number.(../master/Classical/3C.cc)  
+  b. [Count Factorial numbers in a given range.](../master/Classical/3B.cc)  
+  c. [Count the number of digits in the Factorial of a given number.](../master/Classical/3C.cc)  
   d. [Given an integer n, count the no. of trailing zeroes in its Factorial.](../master/Classical/3D.cc)  
  4. Palindrome  
   a. [Check whether a string is a palindrome using pointers.](../master/Classical/4A.cc)  
