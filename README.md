@@ -21,3 +21,56 @@ Some "must-know-how-to-solve" problems (with their variants). Come up with solut
  5. Prime number  
   a. [Check whether a given no. is prime in better time complexity than O(n).](../master/Classical/5A.cc)  
   b. [Print all prime factorization of a given number.](../master/Classical/5B.cc)
+  a. Check whether a given no. is prime in better time complexity than O(n).  
+  b. Print all prime factorization of a given number.  
+  c. Print the nth prime number.  
+  d. Print all prime numbers smaller or equal to n.  
+ 6. Patterns
+  a. #     b.    #   c. ####  d. ####  e.    #     f. #######  g. 1234  h. 4
+     ##         ##      ###       ###       ###        #####      123      34
+     ###       ###      ##         ##      #####        ###       12       234
+     ####     ####      #           #     #######        #        1        1234
+  
+  i.   #   j.    #   k. #######
+      ###       # #     ### ###
+     #####     #   #    ##   ##
+      ###       # #     #     #
+       #         #      ##   ##
+                        ### ###
+                        #######  
+ 
+ 7. Games
+  a. Tic Tac Toe  
+  b. Tower of Hanoi  
+  c. n-Queens  
+ 8. Searching  
+  a. Linear Search  
+  b. Binary Search  
+ 9. Sorting  
+  a. Bubble Sort  
+  b. Selection Sort  
+  c. Insertion Sort  
+  d. Merge Sort  
+  e. Quick Sort  
+  f. Heap Sort  
+## Arrays & Strings
+
+## Matrices
+
+## Lists, Stacks & Queues
+
+## Trees
+
+## Heaps
+
+## Graphs
+
+## Bits Manipulation
+
+## Back-Tracking
+
+## Dynamic Programming
+
+## Divide & Conquer
+
+## Greedy
