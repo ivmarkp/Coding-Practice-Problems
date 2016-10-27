@@ -28,7 +28,7 @@ int main()
 			break;
 		}
 	}
-	if (!prime || num == 0 || num == 1)
+	if (!prime || num < 2)
 		cout << "Not Prime\n";
 	else
 		cout << "Prime\n";
