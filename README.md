@@ -39,7 +39,7 @@ Some "must-know-how-to-solve" problems (with their variants). Come up with solut
                         ### ###
                         #######  
  
- 7. Games
+ 7. Games  
   a. Tic Tac Toe  
   b. Tower of Hanoi  
   c. n-Queens  
@@ -53,6 +53,7 @@ Some "must-know-how-to-solve" problems (with their variants). Come up with solut
   d. Merge Sort  
   e. Quick Sort  
   f. Heap Sort  
+
 ## Arrays & Strings
 
 ## Matrices
