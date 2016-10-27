@@ -21,7 +21,7 @@ Some "must-know-how-to-solve" problems (with their variants). Come up with solut
  5. Prime number  
   a. [Check whether a given no. is prime in better time complexity than O(n).](../master/Classical/5A.cc)  
   b. [Print all prime factorization of a given number.](../master/Classical/5B.cc)  
-  c. [Print the nth prime number.](../master/Classical/5D.cc)  
+  c. [Print the nth prime number.](../master/Classical/5C.cc)  
   d. [Print all prime numbers smaller or equal to n.](../master/Classical/5D.cc)  
  6. [Patterns](../master/Assets/Patterns.png)  
  7. Games  
