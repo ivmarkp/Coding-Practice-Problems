@@ -25,20 +25,7 @@ Some "must-know-how-to-solve" problems (with their variants). Come up with solut
   b. Print all prime factorization of a given number.  
   c. Print the nth prime number.  
   d. Print all prime numbers smaller or equal to n.  
- 6. Patterns
-  a. #     b.    #   c. ####  d. ####  e.    #     f. #######  g. 1234  h. 4
-     ##         ##      ###       ###       ###        #####      123      34
-     ###       ###      ##         ##      #####        ###       12       234
-     ####     ####      #           #     #######        #        1        1234
-  
-  i.   #   j.    #   k. #######
-      ###       # #     ### ###
-     #####     #   #    ##   ##
-      ###       # #     #     #
-       #         #      ##   ##
-                        ### ###
-                        #######  
- 
+ 6. [Patterns](../master/Assets/Patterns.png)  
  7. Games  
   a. Tic Tac Toe  
   b. Tower of Hanoi  
