@@ -24,20 +24,20 @@ Some "must-know-how-to-solve" problems (with their variants). Come up with solut
   c. [Print the nth prime number.](../master/Classical/5C.cc)  
   d. [Print all prime numbers smaller or equal to n.](../master/Classical/5D.cc)  
  6. [Patterns](../master/Assets/Patterns.png)  
- 7. Games  
-  a. Tic Tac Toe  
-  b. Tower of Hanoi  
-  c. n-Queens  
- 8. Searching  
+ 7. Searching  
   a. Linear Search  
   b. Binary Search  
- 9. Sorting  
+ 8. Sorting  
   a. Bubble Sort  
   b. Selection Sort  
   c. Insertion Sort  
   d. Merge Sort  
   e. Quick Sort  
   f. Heap Sort  
+ 9. Games  
+  a. Tic Tac Toe  
+  b. Tower of Hanoi  
+  c. n-Queens  
 
 ## Arrays & Strings
 
@@ -51,7 +51,7 @@ Some "must-know-how-to-solve" problems (with their variants). Come up with solut
 
 ## Graphs
 
-## Bits Manipulation
+## Bit Manipulation
 
 ## Back-Tracking
 
