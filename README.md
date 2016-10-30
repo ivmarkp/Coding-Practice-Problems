@@ -25,8 +25,8 @@ Some "must-know-how-to-solve" problems (with their variants). Come up with solut
   d. [Print all prime numbers smaller or equal to n.](../master/Classical/5D.cc)  
  6. [Patterns](../master/Assets/Patterns.png)  
  7. Searching  
-  a. Linear Search  
-  b. Binary Search  
+  a. [Linear Search](../master/Classical/7A.cc)  
+  b. [Binary Search](../master/Classical/7B.cc)  
  8. Sorting  
   a. Bubble Sort  
   b. Selection Sort  
