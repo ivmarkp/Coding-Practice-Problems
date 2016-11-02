@@ -28,11 +28,11 @@ Some "must-know-how-to-solve" problems (with their variants). Come up with solut
   a. [Linear Search](../master/Classical/7A.cc)  
   b. [Binary Search](../master/Classical/7B.cc)  
  8. Sorting  
-  a. Bubble Sort  
-  b. Selection Sort  
-  c. Insertion Sort  
-  d. Merge Sort  
-  e. Quick Sort  
+  a. [Bubble Sort](../master/Classical/8A.cc)  
+  b. [Selection Sort](../master/Classical/8B.cc)  
+  c. [Insertion Sort](../master/Classical/8C.cc)  
+  d. [Merge Sort](../master/Classical/8D.cc)  
+  e. [Quick Sort](../master/Classical/8E.cc)  
   f. Heap Sort  
  9. Games  
   a. Tic Tac Toe  
