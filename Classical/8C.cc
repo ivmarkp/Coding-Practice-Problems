@@ -1,11 +1,12 @@
-/* Insertion Sort Algorithm: In-place comparison-based sorting algorithm.
-							 Here, a sub-list is maintained which is always sorted.
+/* Insertion Sort Algorithm:
+   In-place comparison-based sorting algorithm. A sub-list is maintained which is always
+   sorted. Useful when number of elements is small and also when input array is almost
+   sorted i.e. only few elements are misplaced in complete big array.
+   
    Time Complexity: O(n^2)
    Sorting In Place: Yes
    Stable: Yes
    Auxiliary Space: O(1)
-   Uses: Useful when number of elements is small and also when input array is almost
-   sorted i.e. only few elements are misplaced in complete big array.
    
    Dry Run Example:
    i = 0:	[2], 4, 1, 5, 3, 9

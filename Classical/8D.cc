@@ -1,13 +1,14 @@
-/* Merge Sort: A Divide and Conquer algorithm -- divides input array in two halves,
-			   calls itself for the two halves and then merges the two sorted halves.
+/* Merge Sort Algorithm:
+   A Divide and Conquer algorithm -- divides input array in two halves and calls
+   itself for the two halves and then merges the two sorted halves. Useful for
+   sorting particularly linked lists in O(nLogn) time. Unlike array, in linked
+   list, we can insert items in the middle in O(1) extra space and O(1) time.
+   So, merge operation of merge sort can be implemented without extra space.
+   
    Time Complexity: O(nlogn)
    Sorting In Place: No
    Stable: Yes
    Auxiliary Space: O(n)
-   Uses: Useful for sorting particularly linked lists in O(nLogn) time. Unlike array,
-		 in linked list, we can insert items in the middle in O(1) extra space and O(1)
-		 time. So, merge operation of merge sort can be implemented without extra space.
-	Link: https://www.youtube.com/watch?v=TzeBrDU-JaY
 */
 #include <bits/stdc++.h>
 using namespace std;
@@ -49,7 +50,7 @@ void merge(vector<int>& a, int l, int m, int r) {
 }
 
 void merge_sort(vector<int>& a, int l, int r) {
-	if (l < r) {// Just making sure that something stupid doesn't happen!
+	if (l < r) {
 		int m = l + (r-l) / 2; // Avoids integer overflow.
 		merge_sort(a, l, m);
 		merge_sort(a, m+1, r);
@@ -64,7 +65,6 @@ int main()
 	
 	merge_sort(a, 0, size-1);
 	
-	//vector<int>::iterator it; 
 	for (int i = 0; i < size; i++)
 		cout << a[i] << ' ';
 	cout << endl;
