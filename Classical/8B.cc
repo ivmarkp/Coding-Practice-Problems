@@ -1,22 +1,25 @@
-/* Selection Sort Algorithm: Repeatedly finding the minimum element (considering
-							 ascending order) from unsorted part and putting it at
+/* Selection Sort Algorithm: Repeatedly find the minimum element (considering
+							 ascending order) from unsorted part and put it at
 							 the beginning.
    Time Complexity: O(n^2)
    Sorting In Place: Yes
    Stable: No
    Auxiliary Space: O(1)
-   Uses: It never makes more than O(n) swaps and can be useful when memory write is a costly operation.
+   Uses: It never makes more than O(n) swaps and can be useful when memory write is
+   		 costly operation.
 */
 #include <bits/stdc++.h>
 using namespace std;
 
 int* selection_sort(int *a, int size) {
+	int min;
 	for (int i = 0; i < size; i++) {
+		min = i;
 		for (int j = i+1; j < size; j++) {
-			if (a[j] < a[i]) {
-				swap(a[j], a[i]);
-			}
+			if (a[j] < a[min])
+				min = j;
 		}
+		swap(a[i], a[min]);
 	}
 	return a;
 }
