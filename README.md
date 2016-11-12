@@ -1,6 +1,6 @@
 # Coding Practice Problems
 ## Classical
-Some "must-know-how-to-solve" problems (with their variants). Come up with solutions better that naive ones.
+Some "must-know-how-to-solve" problems (with their variants).
  1. Fibonacci Numbers  
   a. [Given a number n, print the Fibonacci sequence upto n.](../master/Classical/1A.cc)  
   b. [Find the nth Fibonacci number.](../master/Classical/1B.cc)  
@@ -36,7 +36,7 @@ Some "must-know-how-to-solve" problems (with their variants). Come up with solut
   f. Heap Sort  
  9. Games  
   a. Tic Tac Toe  
-  b. Tower of Hanoi  
+  b. [Tower of Hanoi](../master/Classical/9B.cc)  
   c. n-Queens  
 
 ## Arrays & Strings
@@ -53,7 +53,7 @@ Some "must-know-how-to-solve" problems (with their variants). Come up with solut
 
 ## Bit Manipulation
 
-## Back-Tracking
+## Backtracking
 
 ## Dynamic Programming
 
