@@ -37,7 +37,7 @@ Some "must-know-how-to-solve" problems (with their variants).
  9. Games  
   a. Tic Tac Toe  
   b. [Tower of Hanoi](../master/Classical/9B.cc)  
-  c. n-Queens  
+  c. [n-Queens](../master/Classical/9C.cc)  
 
 ## Arrays & Strings
 

@@ -5,7 +5,10 @@
    2. Only the "top" disk can be removed.
    3. No large disk can sit over a small disk.
    
-   Tower of Hanoi puzzle with n disks can be solved in minimum 2^n−1 steps. So, given n nos
+   Note: This puzzle can be solved by simple recursion. An iterative solution would be a bit		
+   tangled so skipping that for now.
+   
+   Tower of Hanoi puzzle with n disks can be solved in minimum 2^n−1 steps. Given n nos
    of disks print the required steps to move the disks from source tower to destination
    tower.
    
