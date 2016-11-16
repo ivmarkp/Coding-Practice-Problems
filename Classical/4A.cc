@@ -1,4 +1,5 @@
 /* Check whether a string is a palindrome using pointer.
+   E.g.
    Input:
    lollol
    nolol
@@ -11,7 +12,8 @@
 using namespace std;
 
 bool check(char *str, int len) {
-	//Use two index pointers -- one set to first character's address and another set to last character's length;
+	// Use two index pointers -- one set to first character's address and another set to last
+	// character's length;
 	char* start = str; char* end = str + len - 1;
 	bool flag = 1;
 	while (start != end) {
@@ -19,7 +21,7 @@ bool check(char *str, int len) {
 			flag = 0;
 			break;
 		}
-		//Increment first index and decrement last index.
+		// Increment first index and decrement last index.
 		start += 1; end -= 1;
 	}
 	return flag;

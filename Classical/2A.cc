@@ -1,4 +1,5 @@
 /* Given two numbers, find LCM & GCD.
+   E.g.
    Input:
    4 12
    270 192
@@ -7,7 +8,7 @@
    8640 6
 
 Hints:
-For two numbers, lcm(a,b) = a * b / gcd(a,b) and gcd of two nos can be calculated using Euclid's algo: 
+For two nos, lcm(a,b) = a*b/gcd(a,b) & gcd of two nos can be calculated using Euclid's' algo: 
 1. If A = 0 then GCD(A,B)=B, since the GCD(0,B)=B, and we can stop.  
 2. If B = 0 then GCD(A,B)=A, since the GCD(A,0)=A, and we can stop.  
 3. Write A in quotient remainder form (A = B*Q + R)

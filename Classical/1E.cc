@@ -1,4 +1,5 @@
 /* Given a number n, find the number of digits in the nth Fibonacci number.
+   E.g.
    Input:
    0
    8
@@ -10,9 +11,12 @@
 */
 
 /*Hints:
-Binet's formula for calculating Fibonacci numbers, combined with the fact that the number of digits in any integer is just 1 + the whole-part of its log10, can be used to find the no. of digits in a Fibonacci number efficiently.
+Binet's formula for calculating Fibonacci numbers, combined with the fact that the number
+of digits in any integer is just 1 + the whole-part of its log10, can be used to find the
+no. of digits in a Fibonacci number efficiently.
 
-So, the no. of digits = log10(Phi^n/√5) =  n*log10(Phi) - (log10(5))/2, where Phi = (1 + √5) / 2.
+So, the no. of digits = log10(Phi^n/√5) =  n*log10(Phi) - (log10(5))/2,
+where Phi = (1 + √5) / 2.
 */
 #include <bits/stdc++.h>
 using namespace std;

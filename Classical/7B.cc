@@ -1,6 +1,6 @@
-/* Binary Search: Search a sorted array by repeatedly dividing the search interval in half
+/* Binary Search: Search a sorted array by repeatedly dividing the search interval in half.
    Time Complexity : O(logn)
-   
+   E.g.
    Input:
    2 3 4 5 6 8 11
    5

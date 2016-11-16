@@ -1,4 +1,5 @@
 /* Count Factorial numbers in a given range [l, m].
+   E.g.
    Input:
    0 1
    10 200

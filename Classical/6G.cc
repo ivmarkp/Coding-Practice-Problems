@@ -1,6 +1,8 @@
 /* Print the following pattern for given n no. of rows:
-   For e.g.
-   n = 4
+   E.g.
+   Input:
+   4
+   Output:
    1234
    123
    12

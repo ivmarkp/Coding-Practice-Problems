@@ -1,6 +1,6 @@
 /* Linear Search Algorithm
    Time Complexity : O(n)
-   
+   E.g.
    Input:
    2 3 6 4 5 7
    5

@@ -1,4 +1,5 @@
 /* Check if a given number is a valid Fibonacci number.
+   E.g.
    Input:
    0
    5

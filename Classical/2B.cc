@@ -1,4 +1,5 @@
 /* Given an array of n numbers, find LCM.
+   E.g.
    Input:
    3
    4 8 16
@@ -6,7 +7,9 @@
    16
 
 Hints:
-Use the basic idea that lcm of 3 nos can be calculated by first calculating lcm of first two nos (let's call it l1) and then the final answer will be the lcm of l1 and the third number.
+Use the basic idea that lcm of 3 nos can be calculated by first calculating lcm of first
+two nos (let's call it l1) and then the final answer will be the lcm of l1 and the third
+number.
 */
 #include <bits/stdc++.h>
 using namespace std;

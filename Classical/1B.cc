@@ -1,4 +1,5 @@
 /* Find the nth Fibonacci number.
+   E.g.
    Input:
    0
    1

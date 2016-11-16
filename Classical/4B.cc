@@ -1,4 +1,5 @@
 /* Check whether a number is a palindrome.
+   E.g.
    Input:
    12321
    1110

@@ -1,4 +1,5 @@
 /* Given a Fibonacci number, print its index in the Fibonacci sequence.
+   E.g.
    Input:
    3
    5
@@ -9,7 +10,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-int fibo_index(int n) { // Assuming that only valid Fibonacci numbers are passed to the function.
+// Assuming that only valid Fibonacci numbers are passed to the function.
+int fibo_index(int n) {
 	if (n == 0)
 		return 0;
 	else if (n == 1)
@@ -21,9 +23,12 @@ int fibo_index(int n) { // Assuming that only valid Fibonacci numbers are passed
 		int i = 2;
 		int index = 0;
 		while(1){
-			arr.push_back(arr[i-1] + arr[i-2]); // Don't use index notation to store ith value as arr[i] = arr[i-1] + arr[i-2]
-			if (n == arr[i]) {					// here because it will result in unexpected behaviour. Add new values using
-				index = i;						// push_back() function only.
+			// Don't use index notation to store ith value as arr[i] = arr[i-1] + arr[i-2]
+			// here because it will result in unexpected behaviour. Add new values using
+			// push_back() function only.
+			arr.push_back(arr[i-1] + arr[i-2]);
+			if (n == arr[i]) {
+				index = i;
 				break;
 			}
 			i += 1;

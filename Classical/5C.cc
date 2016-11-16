@@ -1,4 +1,5 @@
 /* Print the nth prime number.
+   E.g.
    Input:
    10
    1000
@@ -6,7 +7,6 @@
    29
    7919
 */
-
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -41,5 +41,3 @@ int main()
 	cout << nthprime(n) << endl;
 	return 0;
 }
-
-

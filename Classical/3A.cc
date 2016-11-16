@@ -1,4 +1,5 @@
 /* Find the factorial of a number.
+   E.g.
    Input:
    5
    Output:

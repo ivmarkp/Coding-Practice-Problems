@@ -12,8 +12,10 @@
 using namespace std;
 
 int partition(vector<int>& a, int start, int end) {
-	int pivot = a[end]; //Taking pivot as last element in the array
-	int piv_index = start; //Intially taking pivot index as 0
+	//Taking pivot as last element in the array
+	int pivot = a[end];
+	//Intially taking pivot index as 0
+	int piv_index = start;
 	for (int i = start; i < end; i++) {
 		if (a[i] <= pivot) {
 			swap(a[i], a[piv_index]);

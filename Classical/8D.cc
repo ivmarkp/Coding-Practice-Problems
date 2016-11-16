@@ -21,9 +21,11 @@ void merge(vector<int>& a, int l, int m, int r) {
 		L.push_back(a[i]);
 	for (int i = m+1; i <= r; i++)
 		R.push_back(a[i]);
-		
-	int i = 0, j = 0; // Initial index of first and second subarray
-	int k = l;	// Initial index of merged subarray
+	
+	// Initial index of first and second subarray
+	int i = 0, j = 0;
+	// Initial index of merged subarray
+	int k = l;
 	while (i < L.size() && j < R.size()) {
 		if (L[i] <= R[j]) {
 			a[k] = L[i];
