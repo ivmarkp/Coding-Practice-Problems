@@ -12,8 +12,8 @@
 using namespace std;
 
 bool check(char *str, int len) {
-	// Use two index pointers -- one set to first character's address and another set to last
-	// character's length;
+	// Use two index pointers -- one set to first character's address and another set to
+	// last character's length;
 	char* start = str; char* end = str + len - 1;
 	bool flag = 1;
 	while (start != end) {

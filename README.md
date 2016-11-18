@@ -35,7 +35,7 @@ Some "must-know-how-to-solve" problems (with their variants).
   e. [Quick Sort](../master/Classical/8E.cc)  
   f. Heap Sort  
  9. **Games**  
-  a. Tic Tac Toe  
+  a. [Tic Tac Toe](../master/Classical/9A.cc)  
   b. [Tower of Hanoi](../master/Classical/9B.cc)  
   c. [n-Queens](../master/Classical/9C.cc)  
 
