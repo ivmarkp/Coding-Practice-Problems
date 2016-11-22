@@ -40,6 +40,7 @@ Some "must-know-how-to-solve" problems (with their variants).
   c. [n-Queens](../master/Classical/9C.cc)  
 
 ## Arrays & Strings
+ 1. [Even and Odd numbers](../master/Arrays-Strings/1A.cc)
 
 ## Matrices
 
