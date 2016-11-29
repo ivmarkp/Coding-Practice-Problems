@@ -4,9 +4,11 @@
    Input:
    5 7 14 26 57 1 4
    12 34 45 9 8 90 3
+   2 34 45 9 8 90
    Output:
    14 26 4 5 7 1 57
    12 34 90 8 9 45 3
+   2 34 90 8 9 45
 */
 #include <bits/stdc++.h>
 using namespace std;
@@ -16,24 +18,25 @@ void SegOddEven(vector<int>& A, int size) {
 	int first = 0;
 	int last = size-1;
 	while (first < last) {
-		// If elements at first and last are odd and even respectively, then swap and inc
-		// first and dec last.
-		if (A[last] % 2 == 0 && A[first] % 2 != 0) {
+		// If first and last elements are odd and even respectively, then swap & increment
+		// first and decrement last.
+		if (A[first] % 2 == 1 && A[last] % 2 == 0) {
 			swap (A[first], A[last]);
 			first++;
 			last--;
 		}
-		// If elements at first and last are even and odd respectively, then inc first and
-		// leave last unchanged.
-		else if (A[last] % 2 != 0 && A[first] % 2 == 0) first++;
-		// If both elements are odd, then dec last and let first remain unchanged.
-		else if (A[last] % 2 != 0 && A[first] % 2 != 0) last--;
+		// If first and last elements are even and odd respectively, then increment first.
+		if (A[first] % 2 == 0 && A[last] % 2 == 1) first++;
+		// If both elements are odd, then decrement last.
+		if (A[first] % 2 == 1 && A[last] % 2 == 1) last--;
+		// If both elements are even, then increment first.
+		if (A[first] % 2 == 0 && A[last] % 2 == 0) first++;
 	}
 }
 
 int main()
 {
-	vector<int> A = {12, 34, 45, 9, 8, 90, 3};
+	vector<int> A = {2, 34, 45, 9, 8, 90};
 	int size = A.size();
 
 	SegOddEven(A, size);
