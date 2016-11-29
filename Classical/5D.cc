@@ -24,8 +24,8 @@ int main()
 	memset(arr, true, sizeof(arr));
 	for (int p = 2; p*p <= n; p++) {
 		if (arr[p]) {
-			// Update all multiples of p i.e. p, 2p, 3p and so on
-			for (int k = p*2; k <= n; k += p)
+			// Update all multiples of p starting from 2p, 3p and so on
+			for (int k = 2*p; k <= n; k += p)
 				arr[k] = false;
 		}
 	}
