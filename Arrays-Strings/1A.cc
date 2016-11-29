@@ -1,6 +1,5 @@
-/* Segregate even and odd numbers in an array.
-   Note: All even numbers should appear first, then odd numbers and the order of numbers
-   DOES NOT matter.
+/* Segregate even and odd numbers in an array such that even numbers appear first and then
+   odd numbers. Note: The order of numbers DOES NOT matter.
    E.g.
    Input:
    5 7 14 26 57 1 4
@@ -12,7 +11,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-vector<int> SegOddEven(vector<int>& A, int size) {
+void SegOddEven(vector<int>& A, int size) {
 	// Initialize first and last index
 	int first = 0;
 	int last = size-1;
@@ -30,7 +29,6 @@ vector<int> SegOddEven(vector<int>& A, int size) {
 		// If both elements are odd, then dec last and let first remain unchanged.
 		else if (A[last] % 2 != 0 && A[first] % 2 != 0) last--;
 	}
-	return A;
 }
 
 int main()
@@ -38,9 +36,8 @@ int main()
 	vector<int> A = {12, 34, 45, 9, 8, 90, 3};
 	int size = A.size();
 
-	vector<int> B(size, 0);
-	B = SegOddEven(A, size);
-	for (auto i : B) cout << i << ' ';
+	SegOddEven(A, size);
+	for (auto i : A) cout << i << ' ';
 	cout << endl;
 	
 	return 0;
