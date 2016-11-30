@@ -40,7 +40,9 @@ Some "must-know-how-to-solve" problems (with their variants).
   c) [n-Queens](../master/Classical/9C.cc)  
 
 ## Arrays & Strings
- 1. a) [Even and Odd numbers](../master/Arrays-Strings/1A.cc)  
+ 1. a) [Segregate even and odd numbers](../master/Arrays-Strings/1A.cc)  
+    b) [Segregate and sort even and odd numbers](../master/Arrays-Strings/1B.cc)  
+ 2. [Dutch national flag problem](../master/Arrays-Strings/2.cc)  
 
 ## Matrices
 
