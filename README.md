@@ -37,7 +37,10 @@ Some "must-know-how-to-solve" problems (with their variants).
  9. **Games**  
   a) [Tic Tac Toe](../master/Classical/9A.cc)  
   b) [Tower of Hanoi](../master/Classical/9B.cc)  
-  c) [n-Queens](../master/Classical/9C.cc)  
+  c)u [n-Queens](../master/Classical/9C.cc)  
+
+## Maths
+ 1. [Angle between hour and minute hand](../master/Maths/1.cc)  
 
 ## Arrays & Strings
  1. a) [Segregate even and odd numbers](../master/Arrays-Strings/1A.cc)  
