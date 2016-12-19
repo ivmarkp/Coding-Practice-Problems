@@ -46,10 +46,15 @@ Some "must-know-how-to-solve" problems (with their variants).
  1. a) [Segregate even and odd numbers](../master/Arrays-Strings/1A.cc)  
     b) [Segregate and sort even and odd numbers](../master/Arrays-Strings/1B.cc)  
  2. [Dutch national flag problem](../master/Arrays-Strings/2.cc)  
+ 3. [Third largest element](../master/Arrays-Strings/3.cc)  
+ 4. [Rotate an array](../master/Arrays-Strings/4.cc)  
+ 5. [Equal to Product](../master/Arrays-Strings/5.cc)
 
 ## Matrices
 
 ## Linked Lists
+ 1. [Insert in doubly linked list](../master/Lists/1.cc)
+ 2. [Check for circular linked list](../master/Lists/2.cc)
 
 ## Stacks & Queues
 
