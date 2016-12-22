@@ -40,24 +40,24 @@ Some "must-know-how-to-solve" problems (with their variants).
   c) [n-Queens](../master/Classical/9C.cc)  
 
 ## Math
- 1. [Angle between hour and minute hand.](../master/Maths/1.cc)  
+ 1. [Angle between hour and minute hand.](../master/Maths/1.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=844)  
 
 ## Array
  1. a) [Segregate even and odd numbers.](../master/Arrays-Strings/1A.cc)  
     b) [Segregate and sort even and odd numbers.](../master/Arrays-Strings/1B.cc)  
- 2. [Dutch national flag problem.](../master/Arrays-Strings/2.cc)  
- 3. [Third largest element.](../master/Arrays-Strings/3.cc)  
- 4. [Rotate an array.](../master/Arrays-Strings/4.cc)  
- 5. [Equal to Product.](../master/Arrays-Strings/5.cc)  
+ 2. [Dutch national flag problem.](../master/Arrays-Strings/2.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=341)  
+ 3. [Third largest element.](../master/Arrays-Strings/3.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700312)  
+ 4. [Rotate an array.](../master/Arrays-Strings/4.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=924)  
+ 5. [Equal to Product.](../master/Arrays-Strings/5.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=667)  
 
 ## String
 
 ## Matrix
- 1. [Sum of diagonals.](../master/Matrix/1.cc)  
+ 1. [Sum of diagonals.](../master/Matrix/1.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=1310)  
 
 ## Linked List
- 1. [Insert in doubly linked list.](../master/Lists/1.cc)  
- 2. [Check for circular linked list.](../master/Lists/2.cc)  
+ 1. [Insert in doubly linked list.](../master/Lists/1.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700232)  
+ 2. [Check for circular linked list.](../master/Lists/2.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700172)  
 
 ## Stack & Queue
  1. a) [Implement stack using array.](../master/Stack-Queue/1A.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700208)  
@@ -67,17 +67,17 @@ Some "must-know-how-to-solve" problems (with their variants).
 
 ## Tree
 ### Binary Tree
- 1. a) [Preorder, Inorder & Postorder traversal.](../master/Tree/Binary/1A.cc)  
-    b) [Non-recursive Preorder traversal.](../master/Tree/Binary/1B.cc)  
-    c) [Non-recursive Inorder traversal.](../master/Tree/Binary/1C.cc)  
-    d) [Non-recursive Postorder traversal.](../master/Tree/Binary/1D.cc)  
-    e) [Level Order traversal.](../master/Tree/Binary/1E.cc)  
+ 1. a) [Preorder, Inorder & Postorder traversal.](../master/Tree/Binary/1A.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700319) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700135) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700199)   
+    b) [Non-recursive Preorder traversal.](../master/Tree/Binary/1B.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700319)  
+    c) [Non-recursive Inorder traversal.](../master/Tree/Binary/1C.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700135)  
+    d) [Non-recursive Postorder traversal.](../master/Tree/Binary/1D.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700199)  
+    e) [Level Order traversal.](../master/Tree/Binary/1E.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700248)  
  2. [Find the largest element.](../master/Tree/Binary/2.cc)  
  3. [Search an element.](../master/Tree/Binary/3.cc)  
  4. [Insert an element.](../master/Tree/Binary/4.cc)  
  5. [Delete the binary tree.](../master/Tree/Binary/5.cc)  
- 6. [Print all nodes that don't have sibling.](../master/Tree/Binary/6.cc)  
- 7. [Check if the given binary tree is a Sum Tree.](../master/Tree/Binary/7.cc)  
+ 6. [Print all nodes that don't have a sibling.](../master/Tree/Binary/6.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700228)  
+ 7. [Check if the given binary tree is a Sum Tree.](../master/Tree/Binary/7.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700179)  
 
 ## Heap
 
