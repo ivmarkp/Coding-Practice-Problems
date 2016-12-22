@@ -2,25 +2,25 @@
 ## Classical
 Some "must-know-how-to-solve" problems (with their variants).
  1. **Fibonacci Numbers**  
-  a) [Given a number n, print the Fibonacci sequence upto n.](../master/Classical/1A.cc)  
-  b) [Find the nth Fibonacci number.](../master/Classical/1B.cc)  
-  c) [Given a Fibonacci number, print its index in the Fibonacci sequence.](../master/Classical/1C.cc)  
+  a) [Print the Fibonacci sequence upto n.](../master/Classical/1A.cc)  
+  b) [Print the nth Fibonacci number.](../master/Classical/1B.cc)  
+  c) [Print the index of a Fibonacci number.](../master/Classical/1C.cc)  
   d) [Check if a given number is a valid Fibonacci number.](../master/Classical/1D.cc)  
-  e) [Given a number n, find the number of digits in nth Fibonacci number.](../master/Classical/1E.cc)  
+  e) [Find the number of digits in nth Fibonacci number.](../master/Classical/1E.cc)  
  2. **LCM, GCD**  
   a) [Given two numbers, find LCM & GCD.](../master/Classical/2A.cc)  
   b) [Given an array of n numbers, find LCM.](../master/Classical/2B.cc)
  3. **Factorial**  
   a) [Find the factorial of a number.](../master/Classical/3A.cc)  
   b) [Count Factorial numbers in a given range.](../master/Classical/3B.cc)  
-  c) [Count the number of digits in the Factorial of a given number.](../master/Classical/3C.cc)  
-  d) [Given an integer n, count the no. of trailing zeroes in its Factorial.](../master/Classical/3D.cc)  
+  c) [Count the number of digits in n!](../master/Classical/3C.cc)  
+  d) [Count the no. of trailing zeroes in n!](../master/Classical/3D.cc)  
  4. **Palindrome**  
-  a) [Check whether a string is a palindrome using pointers.](../master/Classical/4A.cc)  
-  b) [Check whether a number is a palindrome with recursion.](../master/Classical/4B.cc)  
+  a) [Check if a string is a palindrome using pointers.](../master/Classical/4A.cc)  
+  b) [Check if a number is a palindrome using recursion.](../master/Classical/4B.cc)  
  5. **Prime number**  
-  a) [Check whether a given no. is prime in better time complexity than O(n).](../master/Classical/5A.cc)  
-  b) [Print all prime factorization of a given number.](../master/Classical/5B.cc)  
+  a) [Check whether a given number is prime](../master/Classical/5A.cc)  
+  b) [Print all prime factorization of a number.](../master/Classical/5B.cc)  
   c) [Print the nth prime number.](../master/Classical/5C.cc)  
   d) [Print all prime numbers smaller or equal to n.](../master/Classical/5D.cc)  
  6. **[Patterns](../master/Assets/Patterns.png)**  
@@ -37,18 +37,20 @@ Some "must-know-how-to-solve" problems (with their variants).
  9. **Games**  
   a) [Tic Tac Toe](../master/Classical/9A.cc)  
   b) [Tower of Hanoi](../master/Classical/9B.cc)  
-  c)u [n-Queens](../master/Classical/9C.cc)  
+  c) [n-Queens](../master/Classical/9C.cc)  
 
 ## Math
  1. [Angle between hour and minute hand.](../master/Maths/1.cc)  
 
-## Array & String
+## Array
  1. a) [Segregate even and odd numbers.](../master/Arrays-Strings/1A.cc)  
     b) [Segregate and sort even and odd numbers.](../master/Arrays-Strings/1B.cc)  
  2. [Dutch national flag problem.](../master/Arrays-Strings/2.cc)  
  3. [Third largest element.](../master/Arrays-Strings/3.cc)  
  4. [Rotate an array.](../master/Arrays-Strings/4.cc)  
  5. [Equal to Product.](../master/Arrays-Strings/5.cc)  
+
+## String
 
 ## Matrix
  1. [Sum of diagonals.](../master/Matrix/1.cc)  
@@ -58,8 +60,24 @@ Some "must-know-how-to-solve" problems (with their variants).
  2. [Check for circular linked list.](../master/Lists/2.cc)  
 
 ## Stack & Queue
+ 1. a) [Implement stack using array.](../master/Stack-Queue/1A.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700208)  
+    b) [Implement stack using linked list.](../master/Stack-Queue/1B.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700207)  
+ 2. a) [Implement queue using array.](../master/Stack-Queue/2A.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700211)  
+    b) [Implement queue using linked list.](../master/Stack-Queue/2B.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700210)  
 
 ## Tree
+### Binary Tree
+ 1. a) [Preorder, Inorder & Postorder traversal.](../master/Tree/Binary/1A.cc)  
+    b) [Non-recursive Preorder traversal.](../master/Tree/Binary/1B.cc)  
+    c) [Non-recursive Inorder traversal.](../master/Tree/Binary/1C.cc)  
+    d) [Non-recursive Postorder traversal.](../master/Tree/Binary/1D.cc)  
+    e) [Level Order traversal.](../master/Tree/Binary/1E.cc)  
+ 2. [Find the largest element.](../master/Tree/Binary/2.cc)  
+ 3. [Search an element.](../master/Tree/Binary/3.cc)  
+ 4. [Insert an element.](../master/Tree/Binary/4.cc)  
+ 5. [Delete the binary tree.](../master/Tree/Binary/5.cc)  
+ 6. [Print all nodes that don't have sibling.](../master/Tree/Binary/6.cc)  
+ 7. [Check if the given binary tree is a Sum Tree.](../master/Tree/Binary/7.cc)  
 
 ## Heap
 
@@ -69,10 +87,10 @@ Some "must-know-how-to-solve" problems (with their variants).
 
 ## Backtracking
 
-## Dynamic Programming
+## Greedy
 
 ## Divide & Conquer
 
-## Greedy
+## Dynamic Programming
 
 ## Advanced Stuff
