@@ -40,15 +40,15 @@ Some "must-know-how-to-solve" problems (with their variants).
   c) [n-Queens](../master/Classical/9C.cc)  
 
 ## Math
- 1. [Angle between hour and minute hand.](../master/Maths/1.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=844)  
+ 1. [Angle between hour and minute hand.](../master/Math/1.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=844)  
 
 ## Array
- 1. a) [Segregate even and odd numbers.](../master/Arrays-Strings/1A.cc)  
-    b) [Segregate and sort even and odd numbers.](../master/Arrays-Strings/1B.cc)  
- 2. [Dutch national flag problem.](../master/Arrays-Strings/2.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=341)  
- 3. [Third largest element.](../master/Arrays-Strings/3.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700312)  
- 4. [Rotate an array.](../master/Arrays-Strings/4.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=924)  
- 5. [Equal to Product.](../master/Arrays-Strings/5.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=667)  
+ 1. a) [Segregate even and odd numbers.](../master/Array-String/1A.cc)  
+    b) [Segregate and sort even and odd numbers.](../master/Array-String/1B.cc)  
+ 2. [Dutch national flag problem.](../master/Array-String/2.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=341)  
+ 3. [Third largest element.](../master/Array-String/3.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700312)  
+ 4. [Rotate an array.](../master/Array-String/4.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=924)  
+ 5. [Equal to Product.](../master/Array-String/5.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=667)  
 
 ## String
 
@@ -56,8 +56,8 @@ Some "must-know-how-to-solve" problems (with their variants).
  1. [Sum of diagonals.](../master/Matrix/1.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=1310)  
 
 ## Linked List
- 1. [Insert in doubly linked list.](../master/Lists/1.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700232)  
- 2. [Check for circular linked list.](../master/Lists/2.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700172)  
+ 1. [Insert in doubly linked list.](../master/List/1.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700232)  
+ 2. [Check for circular linked list.](../master/List/2.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700172)  
 
 ## Stack & Queue
  1. a) [Implement stack using array.](../master/Stack-Queue/1A.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700208)  
