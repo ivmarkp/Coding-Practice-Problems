@@ -43,12 +43,12 @@ Some "must-know-how-to-solve" problems (with their variants).
  1. [Angle between hour and minute hand.](../master/Math/1.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=844)  
 
 ## Array
- 1. a) [Segregate even and odd numbers.](../master/Array-String/1A.cc)  
-    b) [Segregate and sort even and odd numbers.](../master/Array-String/1B.cc)  
- 2. [Dutch national flag problem.](../master/Array-String/2.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=341)  
- 3. [Third largest element.](../master/Array-String/3.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700312)  
- 4. [Rotate an array.](../master/Array-String/4.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=924)  
- 5. [Equal to Product.](../master/Array-String/5.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=667)  
+ 1. a) [Segregate even and odd numbers.](../master/Array/1A.cc)  
+    b) [Segregate and sort even and odd numbers.](../master/Array/1B.cc)  
+ 2. [Dutch national flag problem.](../master/Array/2.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=341)  
+ 3. [Third largest element.](../master/Array/3.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700312)  
+ 4. [Rotate an array.](../master/Array/4.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=924)  
+ 5. [Equal to Product.](../master/Array/5.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=667)  
 
 ## String
 
