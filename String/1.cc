@@ -22,12 +22,8 @@ string remove_char(string str) {
 }
 
 int main() {
-    int n;
-    cin >> n;
-    while (n--) {
-        string str;
-        cin >> str;
-        cout << remove_char(str) << endl;
-    }
+    string str;
+    cin >> str;
+    cout << remove_char(str) << endl;
     return 0;
 }
