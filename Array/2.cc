@@ -12,28 +12,14 @@
 using namespace std;
 
 void DutchSort(vector<int>& A, int size) {
-	int low = 0;
-	int mid = 0;
-	int high = size - 1;
-
+	int low = 0, mid = 0, high = size - 1;
 	while (mid <= high) {
-		switch(A[mid]) {
-			case 2: {
-				swap(A[mid], A[high]);
-				high--;
-				break;
-			}
-			case 1: {
-				mid++;
-				break;
-			}
-			case 0: {
-				swap(A[mid], A[low]);
-				low++;
-				mid++;
-				break;
-			}
-		}
+		if (A[mid] == 2)
+			swap(A[mid], A[high--]);
+		else if (A[mid] == 1)
+			mid++;
+		else if (A[mid == 0])
+			swap(A[mid++], A[low++]);
 	}
 }
 
@@ -41,10 +27,9 @@ int main()
 {
 	vector<int> A = {0, 1, 1, 0, 1, 2, 1, 2, 0, 1};
 	int size = A.size();
-
 	DutchSort(A, size);
-	for (auto i : A) cout << i << ' ';
+	for (auto i : A)
+		cout << i << ' ';
 	cout << endl;
-
 	return 0;
 }
