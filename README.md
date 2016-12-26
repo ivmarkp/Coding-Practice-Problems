@@ -88,6 +88,8 @@ Some "must-know-how-to-solve" problems (with their variants).
  2. [Largest element in a min-heap](../master/Heap/2.cc)  
 
 ## Graph
+ 1. a) [Depth First traversal](../master/Graph/1.cc)  
+	b) [Breadth First traversal](../master/Graph/2.cc)  
 
 ## Bit Manipulation
 

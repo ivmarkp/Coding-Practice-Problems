@@ -1,21 +1,22 @@
-/* Given a binary tree, print preorder, inorder and postorder traversal of it.
-   E.g. For the following tree:
-			   1
-			 /  \
-			10  39
-			/
-		   5
-   Preorder traversal: 1 10 5 39
-   Postorder traversal: 5 10 39 1
-   Inorder traversal: 5 10 1 39
-*/
-/* A binary tree node has data, pointer to left child and a pointer to right child  
-struct Node {
-    int data;
-    struct Node* left;
-    struct Node* right;
-};
-*/
+/** Given a binary tree, print preorder, inorder and postorder traversal of it.
+ *  E.g. For the following tree:
+ *  		   1
+ *  		 /  \
+ *  		10  39
+ *  		/
+ *  	   5
+ *  Preorder traversal: 1 10 5 39
+ *  Postorder traversal: 5 10 39 1
+ *  Inorder traversal: 5 10 1 39
+ */
+/** A binary tree node.
+ *  struct Node {
+ *      int data;
+ *      struct Node* left;
+ *      struct Node* right;
+ *  };
+ */
+
 void preOrder(struct Node* root) {
     // Base condition.
     if (root == NULL)
