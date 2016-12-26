@@ -55,6 +55,7 @@ Some "must-know-how-to-solve" problems (with their variants).
  2. [Lowercase to uppercase, and vice versa](../master/String/2.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=983)  
  3. [Check whether the reverse of all substrings of a string are present](../master/String/3.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=1431)  
  4. [Max-Min conversion](../master/String/4.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=1436)  
+ 
 ## Matrix
  1. [Sum of diagonals.](../master/Matrix/1.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=1310)  
 
