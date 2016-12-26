@@ -85,7 +85,8 @@ Some "must-know-how-to-solve" problems (with their variants).
 
 ## Heap
  1. [Heap Sort](../master/Heap/1.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700167)  
- 2. [Largest element in a min-heap](../master/Heap/2.cc)
+ 2. [Largest element in a min-heap](../master/Heap/2.cc)  
+
 ## Graph
 
 ## Bit Manipulation
