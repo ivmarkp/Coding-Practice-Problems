@@ -16,7 +16,6 @@
  *      struct Node* right;
  *  };
  */
-
 void preOrder(struct Node* root) {
     // Base condition.
     if (root == NULL)

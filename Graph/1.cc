@@ -1,6 +1,5 @@
 /** Depth First traversal of a graph.
  */
-
 #include <bits/stdc++.h>
 using namespace std;
 

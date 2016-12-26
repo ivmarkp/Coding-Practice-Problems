@@ -1,6 +1,5 @@
 /** Implement Heap Sort to sort an array in ascending order.
  */
-
 #include <bits/stdc++.h>
 using namespace std;
 

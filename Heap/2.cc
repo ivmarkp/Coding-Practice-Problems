@@ -1,6 +1,5 @@
 /** Given a min heap, find the largest element.
  */
-
 int findMax(vector<int> a, int n) {
 	int max = -1;
 	for (int i = (n + 1) / 2; i < n; i++)
