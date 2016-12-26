@@ -33,7 +33,7 @@ Some "must-know-how-to-solve" problems (with their variants).
   c) [Insertion Sort](../master/Classical/8C.cc)  
   d) [Merge Sort](../master/Classical/8D.cc)  
   e) [Quick Sort](../master/Classical/8E.cc)  
-  f) Heap Sort  
+  f) [Heap Sort](../master/Heap/1.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700167)  
  9. **Games**  
   a) [Tic Tac Toe](../master/Classical/9A.cc)  
   b) [Tower of Hanoi](../master/Classical/9B.cc)  
@@ -53,8 +53,8 @@ Some "must-know-how-to-solve" problems (with their variants).
 ## String
  1. [Remove all characters except numbers](../master/String/1.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=398)  
  2. [Lowercase to uppercase, and vice versa](../master/String/2.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=983)  
- 3. [Check whether the reverse of all substrings of a string are present] [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=1431)  
- 4. [Max-Min conversion] [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=1436)  
+ 3. [Check whether the reverse of all substrings of a string are present](../master/String/3.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=1431)  
+ 4. [Max-Min conversion](../master/String/4.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=1436)  
 ## Matrix
  1. [Sum of diagonals.](../master/Matrix/1.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=1310)  
 
@@ -83,6 +83,7 @@ Some "must-know-how-to-solve" problems (with their variants).
  7. [Check if the given binary tree is a Sum Tree.](../master/Tree/Binary/7.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700179)  
 
 ## Heap
+ 1. [Heap Sort](../master/Heap/1.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700167)  
 
 ## Graph
 
