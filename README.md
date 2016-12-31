@@ -101,5 +101,7 @@ Some "must-know-how-to-solve" problems (with their variants).
 ## Divide & Conquer
 
 ## Dynamic Programming
+ 1. [Fibonacci Sequence](../master/DP/1.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=294)  
+ 2. [Padovan Sequence](../master/DP/2.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=1458)  
 
 ## Advanced Stuff
