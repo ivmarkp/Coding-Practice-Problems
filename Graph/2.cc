@@ -5,7 +5,6 @@ using namespace std;
 
 class graph {
     int v;
-    // Adjacency list representation i.e. an array of lists.
     std::vector<std::list<int>> adj;
     void traverse(int v,bool visited []);
     public:
@@ -28,9 +27,9 @@ void graph::traverse(int s, bool visited []) {
         s = q.front();
         cout << s << " ";
         q.pop();
-        // Get all adjacent vertices of the dequeued vertex s
-        // If a adjacent has not been visited, then mark it visited
-        // and enqueue it.
+        // Go through all the adjacent vertices of dequeued
+        // vertex one by one and if it has not been visited,
+        // then mark it visited and enqueue it.
         for(auto it = adj[s].begin(); it != adj[s].end(); ++it) {
             if(!visited[*it]) {
                 visited[*it] = true;
@@ -41,9 +40,7 @@ void graph::traverse(int s, bool visited []) {
 }
 
 void graph::bfs() {
-	// Create a boolean "visited" array of size V.
     bool *visited = new bool[v];
-    // Mark all the vertices as not visited
     for (int i = 0; i < v; i++)
         visited[i] = false;
 	// Call Util to print bFS traversal from each vertex.

@@ -96,6 +96,7 @@ Some "must-know-how-to-solve" problems (with their variants).
 ## Backtracking
 
 ## Greedy
+ 1. [Minimum Sum of Product](../master/Greedy/1.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=1532)  
 
 ## Divide & Conquer
 
