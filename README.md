@@ -99,6 +99,9 @@ Some "must-know-how-to-solve" problems (with their variants).
  1. [Minimum Sum of Product](../master/Greedy/1.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=1532)  
 
 ## Divide & Conquer
+ 1. [Binary Search](../master/Classical/7B.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700238)  
+ 2. [Merge Sort](../master/Classical/8D.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700150)  
+ 3. [Quick Sort](../master/Classical/8E.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700151)  
 
 ## Dynamic Programming
  1. [Fibonacci Sequence](../master/DP/1.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=294)  
