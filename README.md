@@ -92,6 +92,10 @@ Some "must-know-how-to-solve" problems (with their variants).
 	b) [Breadth First traversal](../master/Graph/2.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700217)  
 
 ## Bit Manipulation
+ 1. [Construct a logic gate](../master/Bit/1.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=1365)  
+ 2. [The XOR Gate](../master/Bit/2.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=1353)  
+ 3. [1's complement](../master/Bit/3.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=1338)  
+ 4. [Binary Representation](../master/Bit/4.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=602)  
 
 ## Backtracking
 
