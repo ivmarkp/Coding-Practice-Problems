@@ -96,6 +96,7 @@ Some "must-know-how-to-solve" problems (with their variants).
  2. [The XOR Gate](../master/Bit/2.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=1353)  
  3. [1's complement](../master/Bit/3.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=1338)  
  4. [Binary Representation](../master/Bit/4.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=602)  
+ 5. [Lonely integer](../master/Bit/5.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=167)  
 
 ## Backtracking
 
