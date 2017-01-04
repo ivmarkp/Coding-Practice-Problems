@@ -99,7 +99,8 @@ Some "must-know-how-to-solve" problems (with their variants).
  5. [Lonely integer](../master/Bit/5.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=167)  
 
 ## Backtracking
- 1. [All the strings of *n* no. of bits](../master/Backtracking/1.cc)  
+ 1. [Binary strings of length *n*](../master/Backtracking/1.cc)  
+ 2. [K-ary strings of length *n* ](../master/Backtracking/2.cc)  
 
 ## Greedy
  1. [Minimum Sum of Product](../master/Greedy/1.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=1532)  

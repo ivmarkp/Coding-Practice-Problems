@@ -1,3 +1,13 @@
+/** Print all the binary strings of length n.
+ *	E.g.
+ *	Input:
+ *	2
+ *	Output:
+ *	00
+ *	10
+ *	01
+ *	11
+ */
 #include <bits/stdc++.h>
 using namespace std;
 
