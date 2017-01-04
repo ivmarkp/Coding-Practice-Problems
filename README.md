@@ -31,8 +31,8 @@ Some "must-know-how-to-solve" problems (with their variants).
   a) [Bubble Sort](../master/Classical/8A.cc)  
   b) [Selection Sort](../master/Classical/8B.cc)  
   c) [Insertion Sort](../master/Classical/8C.cc)  
-  d) [Merge Sort](../master/Classical/8D.cc)  
-  e) [Quick Sort](../master/Classical/8E.cc)  
+  d) [Merge Sort](../master/Classical/8D.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700150)  
+  e) [Quick Sort](../master/Classical/8E.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700151)  
   f) [Heap Sort](../master/Heap/1.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700167)  
  9. **Games**  
   a) [Tic Tac Toe](../master/Classical/9A.cc)  
@@ -101,6 +101,7 @@ Some "must-know-how-to-solve" problems (with their variants).
 ## Backtracking
  1. [Binary strings of length *n*](../master/Backtracking/1.cc)  
  2. [K-ary strings of length *n* ](../master/Backtracking/2.cc)  
+ 3. [Permutation with Spaces](../master/Backtracking/3.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=1267)  
 
 ## Greedy
  1. [Minimum Sum of Product](../master/Greedy/1.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=1532)  

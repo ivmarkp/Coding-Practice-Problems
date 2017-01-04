@@ -35,3 +35,4 @@ int main() {
 	k_ary(n, k);
 	return 0;
 }
+// Time Complexity: O(k^n)
