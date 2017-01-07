@@ -49,7 +49,7 @@ Some "must-know-how-to-solve" problems (with their variants).
  6. **[Patterns](../master/Assets/Patterns.png)**  
  7. **Recursion**  
   a) [Tower of Hanoi](../master/Classical/7A.cc)  
-  b) [Print 1 to n without using loops](../master/Classical/7B.cc)  
+  b) [Print 1 to n without using loops](../master/Classical/7B.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=325)  
   c) [Print the factorial of a given number](../master/Classical/3A.cc)  
   d) [Print the Fibonacci sequence upto n](../master/Classical/1A.cc)  
  
