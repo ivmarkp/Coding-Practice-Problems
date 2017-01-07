@@ -1,6 +1,8 @@
 # Coding Practice Problems
 ## Table of Contents
-- [Classical](#classical)
+- [Classic](#classical)
+- [Search](#searching)
+- [Sort](#sorting)
 - [Math](#math)
 - [Array](#array)
 - [String](#string)
@@ -45,20 +47,23 @@ Some "must-know-how-to-solve" problems (with their variants).
   c) [Print the nth prime number](../master/Classical/5C.cc)  
   d) [Print all prime numbers smaller or equal to n](../master/Classical/5D.cc)  
  6. **[Patterns](../master/Assets/Patterns.png)**  
- 7. **Searching**  
-  a) [Linear Search](../master/Classical/7A.cc)  
-  b) [Binary Search](../master/Classical/7B.cc)  
- 8. **Sorting**  
-  a) [Bubble Sort](../master/Classical/8A.cc)  
-  b) [Selection Sort](../master/Classical/8B.cc)  
-  c) [Insertion Sort](../master/Classical/8C.cc)  
-  d) [Merge Sort](../master/Classical/8D.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700150)  
-  e) [Quick Sort](../master/Classical/8E.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700151)  
-  f) [Heap Sort](../master/Heap/1.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700167)  
- 9. **Games**  
-  a) [Tic Tac Toe](../master/Classical/9A.cc)  
-  b) [Tower of Hanoi](../master/Classical/9B.cc)  
-  c) [n-Queens](../master/Classical/9C.cc)  
+ 7. **Recursion**  
+  a) [Tower of Hanoi](../master/Classical/7A.cc)  
+  b) [Print 1 to n without using loops](../master/Classical/7B.cc)  
+  c) [Print the factorial of a given number](../master/Classical/3A.cc)  
+  d) [Print the Fibonacci sequence upto n](../master/Classical/1A.cc)  
+ 
+## Searching
+ 1. [Linear Search](../master/Classical/7A.cc)  
+ 2. [Binary Search](../master/Classical/7B.cc)  
+
+## Sorting
+ 1. [Bubble Sort](../master/Classical/8A.cc)  
+ 2. [Selection Sort](../master/Classical/8B.cc)  
+ 3. [Insertion Sort](../master/Classical/8C.cc)  
+ 4. [Merge Sort](../master/Classical/8D.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700150)  
+ 5. [Quick Sort](../master/Classical/8E.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700151)  
+ 6. [Heap Sort](../master/Heap/1.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700167)  
 
 ## Math
  1. [Angle between hour and minute hand](../master/Math/1.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=844)  
@@ -70,6 +75,7 @@ Some "must-know-how-to-solve" problems (with their variants).
  3. [Third largest element](../master/Array/3.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700312)  
  4. [Rotate an array](../master/Array/4.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=924)  
  5. [Equal to Product](../master/Array/5.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=667)  
+ 6. [Tic-Tac-Toe](../master/Array/6.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=668)  
 
 ## String
  1. [Remove all characters except numbers.](../master/String/1.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=398)  
@@ -129,6 +135,7 @@ Some "must-know-how-to-solve" problems (with their variants).
  1. [Binary strings of length *n*](../master/Backtracking/1.cc)  
  2. [K-ary strings of length *n* ](../master/Backtracking/2.cc)  
  3. [Permutation with Spaces](../master/Backtracking/3.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=1267)  
+ 4. [N-Queens](../master/Backtracking/4.cc)  
 
 ## Greedy
  1. [Minimum Sum of Product](../master/Greedy/1.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=1532)  
