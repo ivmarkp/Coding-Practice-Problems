@@ -92,11 +92,11 @@ Some "must-know-how-to-solve" problems (with their variants).
 
 ## Tree
 ### Traversal
- 1. [Preorder, Inorder & Postorder traversal](../master/Tree/Binary/1.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700319) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700135) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700199)   
- 2. [Non-recursive Preorder traversal](../master/Tree/Binary/2.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700319)  
- 3. [Non-recursive Inorder traversal](../master/Tree/Binary/3.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700135)  
- 4. [Non-recursive Postorder traversal](../master/Tree/Binary/4.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700199)  
- 5. [Level Order traversal](../master/Tree/Binary/5.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700248)  
+ 1. [Preorder, Inorder & Postorder traversal](../master/Tree/1.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700319) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700135) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700199)   
+ 2. [Non-recursive Preorder traversal](../master/Tree/2.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700319)  
+ 3. [Non-recursive Inorder traversal](../master/Tree/3.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700135)  
+ 4. [Non-recursive Postorder traversal](../master/Tree/4.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700199)  
+ 5. [Level Order traversal](../master/Tree/5.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700248)  
 
 ### Binary Tree
  1. [Find the largest element.](../master/Tree/Binary/1.cc)  
@@ -115,8 +115,8 @@ Some "must-know-how-to-solve" problems (with their variants).
  2. [Largest element in a min-heap](../master/Heap/2.cc)  
 
 ## Graph
- 1. a) [Depth First traversal](../master/Graph/1a.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700203)  
-    b) [Breadth First traversal](../master/Graph/1b.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700217)  
+ 1. a) [Depth First traversal](../master/Graph/1A.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700203)  
+    b) [Breadth First traversal](../master/Graph/1B.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700217)  
 
 ## Bit Manipulation
  1. [Construct a logic gate](../master/Bit/1.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=1365)  
