@@ -1,8 +1,8 @@
 # Coding Practice Problems
 ## Table of Contents
 - [Classic](#classical)
-- [Search](#searching)
-- [Sort](#sorting)
+- [Searching](#searching)
+- [Sorting](#sorting)
 - [Math](#math)
 - [Array](#array)
 - [String](#string)
@@ -54,15 +54,15 @@ Some "must-know-how-to-solve" problems (with their variants).
   d) [Print the Fibonacci sequence upto n](../master/Classical/1A.cc)  
  
 ## Searching
- 1. [Linear Search](../master/Classical/7A.cc)  
- 2. [Binary Search](../master/Classical/7B.cc)  
+ 1. [Linear Search](../master/Searching/1.cc)  
+ 2. [Binary Search](../master/Searching/2.cc)  
 
 ## Sorting
- 1. [Bubble Sort](../master/Classical/8A.cc)  
- 2. [Selection Sort](../master/Classical/8B.cc)  
- 3. [Insertion Sort](../master/Classical/8C.cc)  
- 4. [Merge Sort](../master/Classical/8D.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700150)  
- 5. [Quick Sort](../master/Classical/8E.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700151)  
+ 1. [Bubble Sort](../master/Sorting/1.cc)  
+ 2. [Selection Sort](../master/Sorting/2.cc)  
+ 3. [Insertion Sort](../master/Sorting/3.cc)  
+ 4. [Merge Sort](../master/Sorting/4.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700150)  
+ 5. [Quick Sort](../master/Sorting/5.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700151)  
  6. [Heap Sort](../master/Heap/1.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700167)  
 
 ## Math
