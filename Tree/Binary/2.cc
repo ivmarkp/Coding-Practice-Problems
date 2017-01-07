@@ -1,4 +1,4 @@
-/* Given a Binary Tree, print the largest element in the tree. */
+/* Given a Binary Tree, return true if a given element is found in the tree. */
 
 /* Binary tree's node structure
 struct Node {
@@ -8,20 +8,14 @@ struct Node {
 };
 */
 
-int largestElement(struct Node* node) {
-	if (node == NULL)
-		return -1;
-	int root = node -> data;
-	int left = largestElement(node -> left);
-	int right = largestElement(node -> right);
-	// Return the largest among root data, left subtree's largest element and right
-	// subtree's largest element.
-	int max = -1;
-	if (left > right)
-		max = left;
-	else
-		max = right;
-	if (root > max)
-		max = root;
-	return max;
+bool searchTree(struct Node* root, int x) {
+	if (root == NULL)
+		return false;
+	if (root -> data == x)
+		return true;
+	else if (searchTree(root -> left, x))
+		return true;
+	else if (searchTree(root -> right, x))
+		return true;
+	return false;
 }

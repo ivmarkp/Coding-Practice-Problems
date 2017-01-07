@@ -1,5 +1,4 @@
-/* Write a function to delete a binary tree. */
-
+/* Given a Binary Tree, print all nodes that don't have a sibling node. */
 /* Binary tree's node structure
 struct Node {
 	int data;
@@ -7,12 +6,21 @@ struct Node {
 	struct Node* right;
 };
 */
-// Before deleting the parent node, we should delete its children nodes first. We can thus
-// use postorder traversal.
-void deleteTree(struct Node* root) {
-	if (root == NULL)
-		return;
-	deleteTree(root -> left);
-	deleteTree(root -> right);
-	free(root);
+
+/* Prints all nodes having no siblings.  */
+void printSibling(struct Node* node) {
+    if (node == NULL)
+        return;
+    if (node -> left == NULL && node -> right != NULL) {
+        cout << node -> right -> data << ' ';
+        printSibling(node -> right);
+    }
+    if (node -> right == NULL && node -> left != NULL) {
+        cout << node -> left -> data << ' ';
+        printSibling(node -> left);
+    }
+    if (node -> left != NULL && node -> right != NULL) {
+        printSibling(node -> left);
+        printSibling(node -> right);
+    }
 }

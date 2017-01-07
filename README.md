@@ -1,4 +1,25 @@
 # Coding Practice Problems
+## Table of Contents
+- [Classical](#classical)
+- [Math](#math)
+- [Array](#array)
+- [String](#string)
+- [Matrix](#matrix)
+- [Linked List](#linked-list)
+- [Stack-Queue](#stack-queue)
+- [Tree](#tree)
+  - [Binary Tree](#binary-tree)
+  - [Binary Search Tree](#binary-search-tree)
+  - [AVL Tree](#avl-tree)
+- [Heap](#heap)
+- [Graph](#graph)
+- [Bit Manipulation](#bit-manipulation)
+- [Backtracking](#backtracking)
+- [Greedy](#greedy)
+- [Divide & Conquer](#divide--conquer)
+- [Dynamic Programming](#dynamic-programming)
+- [Advanced Stuff](#advanced-stuff)
+
 ## Classical
 Some "must-know-how-to-solve" problems (with their variants).
  1. **Fibonacci Numbers**  
@@ -63,33 +84,39 @@ Some "must-know-how-to-solve" problems (with their variants).
  1. [Insert in doubly linked list](../master/List/1.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700232)  
  2. [Check for circular linked list](../master/List/2.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700172)  
 
-## Stack & Queue
+## Stack-Queue
  1. a) [Implement stack using array](../master/Stack-Queue/1A.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700208)  
     b) [Implement stack using linked list](../master/Stack-Queue/1B.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700207)  
  2. a) [Implement queue using array](../master/Stack-Queue/2A.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700211)  
     b) [Implement queue using linked list](../master/Stack-Queue/2B.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700210)  
 
 ## Tree
+### Traversal
+ 1. [Preorder, Inorder & Postorder traversal](../master/Tree/Binary/1.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700319) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700135) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700199)   
+ 2. [Non-recursive Preorder traversal](../master/Tree/Binary/2.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700319)  
+ 3. [Non-recursive Inorder traversal](../master/Tree/Binary/3.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700135)  
+ 4. [Non-recursive Postorder traversal](../master/Tree/Binary/4.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700199)  
+ 5. [Level Order traversal](../master/Tree/Binary/5.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700248)  
+
 ### Binary Tree
- 1. a) [Preorder, Inorder & Postorder traversal](../master/Tree/Binary/1A.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700319) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700135) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700199)   
-    b) [Non-recursive Preorder traversal](../master/Tree/Binary/1B.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700319)  
-    c) [Non-recursive Inorder traversal](../master/Tree/Binary/1C.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700135)  
-    d) [Non-recursive Postorder traversal](../master/Tree/Binary/1D.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700199)  
-    e) [Level Order traversal](../master/Tree/Binary/1E.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700248)  
- 2. [Find the largest element.](../master/Tree/Binary/2.cc)  
- 3. [Search an element](../master/Tree/Binary/3.cc)  
- 4. [Insert an element](../master/Tree/Binary/4.cc)  
- 5. [Delete the binary tree](../master/Tree/Binary/5.cc)  
- 6. [Print all nodes that don't have a sibling](../master/Tree/Binary/6.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700228)  
- 7. [Check if the given binary tree is a Sum Tree](../master/Tree/Binary/7.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700179)  
+ 1. [Find the largest element.](../master/Tree/Binary/1.cc)  
+ 2. [Search an element](../master/Tree/Binary/2.cc)  
+ 3. [Insert an element](../master/Tree/Binary/3.cc)  
+ 4. [Delete the binary tree](../master/Tree/Binary/4.cc)  
+ 5. [Print all nodes that don't have a sibling](../master/Tree/Binary/5.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700228)  
+ 6. [Check if the given binary tree is a Sum Tree](../master/Tree/Binary/6.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700179)  
+
+### Binary Search Tree
+
+### AVL Tree
 
 ## Heap
  1. [Heap Sort](../master/Heap/1.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700167)  
  2. [Largest element in a min-heap](../master/Heap/2.cc)  
 
 ## Graph
- 1. a) [Depth First traversal](../master/Graph/1.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700203)  
-	b) [Breadth First traversal](../master/Graph/2.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700217)  
+ 1. a) [Depth First traversal](../master/Graph/1a.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700203)  
+    b) [Breadth First traversal](../master/Graph/1b.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=700217)  
 
 ## Bit Manipulation
  1. [Construct a logic gate](../master/Bit/1.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=1365)  
