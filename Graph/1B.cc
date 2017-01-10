@@ -1,5 +1,4 @@
-/** Breadth First traversal of a graph.
- */
+// Breadth First traversal of a graph.
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -61,6 +60,5 @@ int main() {
 	g.bfs();
 	return 0;
 }
-/** Time Complexity: O(V+E)
-	Space Complexity: O(2V) ~O(V)
- */
+// Time Complexity: O(V+E)
+// Space Complexity (Queue): O(2V) ~O(V)

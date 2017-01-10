@@ -1,5 +1,4 @@
-/** Depth First traversal of a graph.
- */
+// Recursive Depth First traversal of a graph.
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -56,8 +55,7 @@ int main() {
 /** Time Complexity: O(V+E) where V is number of vertices & E is number of edges.
  *
  *  Note: The above implementation does the complete graph traversal even if the
- *  nodes are unreachable (e.g. in a disconnected graph). To do complete DFS
- *  traversal of such graphs, traverse() must be called for every vertex. Also,
- *  before calling traverse(), we should check if it is already printed by some
- *  other call of traverse().
+ *  nodes are unreachable (e.g. in a disconnected graph). To do so, traverse()
+ *	must be called for every vertex. Also, before calling traverse(), we check
+ *	if the current vertex was already printed by some other call of traverse().
  */
