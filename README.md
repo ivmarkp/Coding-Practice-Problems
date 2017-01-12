@@ -76,6 +76,7 @@ Some "must-know-how-to-solve" problems (with their variants).
  4. [Rotate an array](../master/Array/4.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=924)  
  5. [Equal to Product](../master/Array/5.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=667)  
  6. [Tic-Tac-Toe](../master/Array/6.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=668)  
+ 7. [Maximum profit from buying & selling stocks](../master/Array/7.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=376)  
 
 ## String
  1. [Remove all characters except numbers.](../master/String/1.cc) [**>_**](http://www.practice.geeksforgeeks.org/problem-page.php?pid=398)  
